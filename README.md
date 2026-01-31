@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Pavan  Student In Acharya Nagarjuna University College Of science <br>Working With Elevate Labs as Intern <br>Python and web development-Intern<br>
+I am Pavan  Student In Acharya Nagarjuna University College Of science <br>Working With Elevate Labs as a Intern <br>Python and web development-Intern<br>
 
 
 ## 🌐 Socials:
