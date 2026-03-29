@@ -18,25 +18,39 @@ A personal storage system
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=pavanmajhi05-sys&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanmajhi05-sys&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pavanmajhi05-sys&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4f8cc9&icon_color=4f8cc9&text_color=c9d1d9&ring_color=4f8cc9&rank_icon=github" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pavanmajhi05-sys&hide_border=true&background=0d1117&ring=4f8cc9&fire=4f8cc9&currStreakLabel=4f8cc9&sideLabels=4f8cc9&dates=8b949e&stroke=4f8cc9" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pavanmajhi05-sys&theme=null" alt="GitHub Streak" />
-
-<img src="https://profile-counter.glitch.me/pavanmajhi05-sys/count.svg?" alt="visitors count" />
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pavanmajhi05-sys&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pavanmajhi05-sys&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<p align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanmajhi05-sys&layout=donut&hide_border=true&bg_color=0d1117&title_color=4f8cc9&text_color=c9d1d9&langs_count=6" />
+  <img width="53%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavanmajhi05-sys&theme=github_dark" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pavanmajhi05-sys&icon=4&color=0)](https://visitcount.itsvg.in)
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pavanmajhi05-sys&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+
+---
+
+## 👁️ Visitor Count
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/pavanmajhi05-sys/count.svg" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pavanmajhi05-sys&label=Profile+Views&color=1f6feb&style=for-the-badge&abbreviated=true" />
+</p>
 
 ## GitHub Activity Graph
 
