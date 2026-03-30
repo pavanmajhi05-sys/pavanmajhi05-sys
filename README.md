@@ -21,17 +21,19 @@ A personal storage system
 ---
 
 ## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pavanmajhi05-sys&show_icons=true&count_private=true&hide_border=false&border_color=1f6feb&bg_color=010409&title_color=4f8cc9&icon_color=4f8cc9&text_color=c9d1d9&rank_icon=github" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pavanmajhi05-sys&hide_border=false&border=1f6feb&background=010409&ring=4f8cc9&fire=ff6b6b&currStreakLabel=4f8cc9&sideLabels=4f8cc9&dates=8b949e&stroke=1f6feb" />
-</p>
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanmajhi05-sys&layout=donut-vertical&hide_border=false&border_color=1f6feb&bg_color=010409&title_color=4f8cc9&text_color=c9d1d9&langs_count=6" />
-  <img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavanmajhi05-sys&theme=github_dark" />
-</p>
+<!-- Overall Stats (includes total commits) -->
+<img src="https://github-readme-stats.vercel.app/api?username=udaysai-kandregula&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=3DDC84&text_color=FFFFFF&count_private=true" />
 
----
+<!-- Streak Stats (current + longest streak) -->
+<img src="https://streak-stats.demolab.com?user=udaysai-kandregula&theme=dark&hide_border=true&background=0D1117&ring=3DDC84&fire=3DDC84&currStreakLabel=FFFFFF" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaysai-kandregula&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&border_color=3DDC84" />
+
+</div>
+
 
 ## 🏆 GitHub Achievements
 
