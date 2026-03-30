@@ -23,13 +23,12 @@ A personal storage system
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pavanmajhi05-sys&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4f8cc9&icon_color=4f8cc9&text_color=c9d1d9&ring_color=4f8cc9&rank_icon=github" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pavanmajhi05-sys&hide_border=true&background=0d1117&ring=4f8cc9&fire=4f8cc9&currStreakLabel=4f8cc9&sideLabels=4f8cc9&dates=8b949e&stroke=4f8cc9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pavanmajhi05-sys&show_icons=true&count_private=true&hide_border=false&border_color=1f6feb&bg_color=010409&title_color=4f8cc9&icon_color=4f8cc9&text_color=c9d1d9&rank_icon=github" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pavanmajhi05-sys&hide_border=false&border=1f6feb&background=010409&ring=4f8cc9&fire=ff6b6b&currStreakLabel=4f8cc9&sideLabels=4f8cc9&dates=8b949e&stroke=1f6feb" />
 </p>
-
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanmajhi05-sys&layout=donut&hide_border=true&bg_color=0d1117&title_color=4f8cc9&text_color=c9d1d9&langs_count=6" />
-  <img width="53%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavanmajhi05-sys&theme=github_dark" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanmajhi05-sys&layout=donut-vertical&hide_border=false&border_color=1f6feb&bg_color=010409&title_color=4f8cc9&text_color=c9d1d9&langs_count=6" />
+  <img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavanmajhi05-sys&theme=github_dark" />
 </p>
 
 ---
@@ -37,7 +36,7 @@ A personal storage system
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pavanmajhi05-sys&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pavanmajhi05-sys&theme=gitdimmed&no-frame=false&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 ---
@@ -45,12 +44,19 @@ A personal storage system
 ## 👁️ Visitor Count
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/pavanmajhi05-sys/count.svg" />
+  <img src="https://profile-counter.glitch.me/pavanmajhi05-sys/count.svg" /><br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=pavanmajhi05-sys&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge&abbreviated=true" />
 </p>
 
+## 🏆 GitHub Achievements
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pavanmajhi05-sys&label=Profile+Views&color=1f6feb&style=for-the-badge&abbreviated=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pavanmajhi05-sys&theme=gitdimmed&no-frame=false&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </p>
+
+---
+
+
 
 ## GitHub Activity Graph
 
