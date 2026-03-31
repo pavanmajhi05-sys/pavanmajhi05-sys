@@ -4,7 +4,7 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@pavan.majhi.125) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@itz_pavan_rolex) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@majhi Pavan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@pavanmajhi05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pavanmajhi05@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@pavan.majhi.125) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@itz_pavan_rolex) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@pavanmajhi05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pavanmajhi05@gmail.com) 
 
 ## Projects
 
@@ -34,32 +34,6 @@ A personal storage system
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanmajhi05-sys&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&border_color=3DDC84" />
 
 </div>
-
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pavanmajhi05-sys&theme=gitdimmed&no-frame=false&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
-</p>
-
----
-
-## 👁️ Visitor Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/pavanmajhi05-sys/count.svg" /><br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=pavanmajhi05-sys&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge&abbreviated=true" />
-</p>
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pavanmajhi05-sys&theme=gitdimmed&no-frame=false&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
-</p>
-
----
-
-
 
 ## GitHub Activity Graph
 
