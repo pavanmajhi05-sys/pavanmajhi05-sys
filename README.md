@@ -76,7 +76,7 @@ A personal storage system
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" height="60" alt="github logo"  />
+  <img src="https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/680ee61a-c0a0-4876-93c7-fa1f68000edc.webp" height="60" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="12" />
