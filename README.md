@@ -77,8 +77,43 @@ A personal storage system
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70" alt="python logo"  />
 </div>
+
 ###
 
+### My Tools....
+
+ 
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="70" alt="vscode logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="70" alt="nodejs logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="70" alt="jupyter logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="70" alt="vercel logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="70" alt="mysql logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="70" alt="postgresql logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="70" alt="anaconda logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/blender/F5792A" height="70" alt="blender logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="70" alt="react logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=ps" height="70" alt="adobephotoshop logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="70" alt="git logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=github" height="70" alt="github logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="70" alt="gitlab logo"  />
+</div>
+
+###
 
 
 
