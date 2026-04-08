@@ -127,20 +127,23 @@ A personal storage system
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavanmajhi05-sys&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ###
 
-<img src="https://raw.githubusercontent.com/pavanmajhi05-sys/pavanmajhi05-sys/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=pavanmajhi05-sys.pavanmajhi05-sys&"  />
 </div>
 
-###
+
+ 
 
 <div align="center">
   <img height="499" src="https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/08324520-b931-4e89-aa95-16e2bc270475.jpg"  />
 </div>
 
-###
