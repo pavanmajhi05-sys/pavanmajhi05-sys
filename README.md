@@ -77,13 +77,13 @@
 ## Projects
 
 ### Personal Vault
-
-A personal storage system
-_________________________________________________________________________________________________________________________________
+A personal storage system where you can upload your file 
 
 [View Project](https://vault-rb3uk41ix-pavanmajhi05-sys-projects.vercel.app/)
+_________________________________________________
 
-### I Code With.<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+### I Code With.
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 <br><br>
 
 
