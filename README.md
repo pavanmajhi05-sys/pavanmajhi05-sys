@@ -1,4 +1,4 @@
-## Welcome to My Github !! [🔝](#--gifs-for-readme--)
+Hu## Welcome to My Github !! [🔝](#--gifs-for-readme--)
 
 ```
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
@@ -156,10 +156,7 @@ _________________________________________________
 
 </td>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?user=pavanmajhi05-sys&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?usernamepavanmajhi05-sys &theme=github_dark" />
-</p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pavanmajhi05-sys&theme=github_dark" />
