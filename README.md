@@ -156,6 +156,17 @@ _________________________________________________
 
 </td>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?user=pavanmajhi05-sys&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?usernamepavanmajhi05-sys &theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pavanmajhi05-sys&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pavanmajhi05-sys&theme=github_dark&utcOffset=5.5" />
+</p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Snake Game Repo View -->
 
 <div align="center">
