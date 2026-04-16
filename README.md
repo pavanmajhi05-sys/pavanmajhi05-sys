@@ -134,13 +134,25 @@ _________________________________________________
 
 
 
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pavanmajhi05-sys&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pavanmajhi05-sys&theme=github_dark&utcOffset=5.5" />
 </p>
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Snake Game Repo View -->
+ 
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=pavanmajhi05-sys&show_icons=true&theme=tokyonight&hide_border=true&title_color=00BFFF&icon_color=87CEEB&text_color=ffffff&bg_color=0D1117" height="180"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanmajhi05-sys&layout=compact&theme=tokyonight&hide_border=true&title_color=00BFFF&text_color=ffffff&bg_color=0D1117" height="180"/>
+
+  <br/><br/>
+
+
+</div>
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
