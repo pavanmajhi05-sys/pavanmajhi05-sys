@@ -120,7 +120,6 @@ _________________________________________________
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo"  />
 </div>
 
-<h3>_______________________________________________________________________________________________</h3>
 
 <h1> GitHub Stats </h1>
 <td algin="center" 
