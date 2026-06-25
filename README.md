@@ -13,7 +13,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pavanmajhi05-sys)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NikhilK97045129)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/immortalleagacy)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavanmajhi05@gmail.com)
 
 <br/>
@@ -49,14 +49,6 @@
 
 ---
 
-
-## Projects
-
-### Personal Vault
-A personal storage system where you can upload your file 
-
-[View Project](https://vault-rb3uk41ix-pavanmajhi05-sys-projects.vercel.app/)
-________________________________________________________
 
  <h1> I Code With... </h1>
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
