@@ -110,6 +110,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo"  />
+</div> 
+
+<h1> Present Working With ...</h1>
+<div align ="center>
+ <a href="https://www.linux.org/" target="_blank">  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" height="80" alt="Linux"/>  
+  </a>  
+  <a href="https://kubernetes.io/" target="_blank">  
+    <img src="https://cdn.iconscout.com/icon/free/png-256/kubernetes-3629029-3030006.png" height="80" alt="Kubernetes"/>  
+  </a>  
 </div>
 
 
