@@ -1,6 +1,6 @@
 <h1>Welcome to My Github !!</h1>
 
-<img align="center" alt="Banner" src="IMG_20260626_233120.gif" />
+<img align="center" alt="Banner" src="dev.jpeg" />
 <h1>👨‍💻 About Me 😊 </h1>
 <br>👋 Hi, I'm Pavan<br>🎓 MCA Student at Acharya Nagarjuna University, Guntur<br>💼 Web Development Intern at Elevate Labs<br>🌱 Currently learning Full-Stack Development (MERN Stack)<br>🔭 Working on real-world web apps and personal projects<br>👯 Open to collaborating on web development & open source projects<br>💬 Ask me about HTML, CSS, JavaScript, Python & web technologies<br>⚡ Fun fact: I love turning ideas into real-world applications<br>📫 Reach me at: pavanmajhi05@gmail.com<br><br>
 
