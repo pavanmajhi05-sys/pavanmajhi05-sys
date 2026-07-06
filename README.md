@@ -131,11 +131,12 @@
 
 
 <h1> GitHub Stats </h1>
-<td algin="center" 
- 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pavanmajhi05-sys&theme=tokyonight&hide_border=false&border_radius=10&background=0D1117&border=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=00BFFF&sideNums=00EFFF&currStreakNum=FFD700&dates=FFFFFF&stroke=00BFFF" />
-</p>
+
+
+![](https://streak-stats.demolab.com/?user=pavanmajhi05-sys&theme=aura&hide_border=true)<br/>
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pavanmajhi05-sys&theme=react-dark)
 
