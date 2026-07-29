@@ -7,7 +7,7 @@
   
   
 
-<img align="center" alt="Banner" src="dev.jpeg" />
+<img align="center" alt="Banner" src="WhatsApp Image 2026-07-29 at 6.59.04 PM.jpeg" />
 <h1>👨‍💻 About Me 😊 </h1>
 <br>👋 Hi, I'm Pavan<br>🎓 MCA Student at Acharya Nagarjuna University, Guntur<br>💼 Web Development Intern at Elevate Labs<br>🌱 Currently Learning Linux  <br>🔭 Working on real-world web apps and personal projects<br>👯 Open to collaborating on web development & open source projects<br>💬 Ask me about HTML, CSS, JavaScript, Python & web technologies<br>⚡ Fun fact: I love turning ideas into real-world applications<br>📫 Reach me at: pavanmajhi05@gmail.com<br><br>
 
