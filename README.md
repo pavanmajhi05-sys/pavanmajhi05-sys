@@ -4,10 +4,8 @@
   <br />
   <br />
 </div>
+  <img align="center" alt="Banner" src="WhatsApp Image 2026-07-29 at 6.59.04 PM.jpeg" />  
   
-  
-
-<img align="center" alt="Banner" src="WhatsApp Image 2026-07-29 at 6.59.04 PM.jpeg" />
 <h1>👨‍💻 About Me 😊 </h1>
 <br>👋 Hi, I'm Pavan<br>🎓 MCA Student at Acharya Nagarjuna University, Guntur<br>💼 Web Development Intern at Elevate Labs<br>🌱 Currently Learning Linux  <br>🔭 Working on real-world web apps and personal projects<br>👯 Open to collaborating on web development & open source projects<br>💬 Ask me about HTML, CSS, JavaScript, Python & web technologies<br>⚡ Fun fact: I love turning ideas into real-world applications<br>📫 Reach me at: pavanmajhi05@gmail.com<br><br>
 
@@ -112,18 +110,20 @@
 <div align ="center" >
  <a href="https://www.linux.org/" target="_blank">  
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" height="80" alt="Linux"/>  
-  </a>  
+  </a> 
+  <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" alt="Fedora" title="Fedora" width="36" height="36" /></a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
   <a href="https://kubernetes.io/" target="_blank">  
     <img src="https://cdn.iconscout.com/icon/free/png-256/kubernetes-3629029-3030006.png" height="80" alt="Kubernetes"/>  
   </a>  
 </div>
 
 
-<h1> GitHub Stats </h1>
+                  
 
+## My GitHub Stats
 
-![](https://streak-stats.demolab.com/?user=pavanmajhi05-sys&theme=aura&hide_border=true)<br/>
-
+<a href="http://www.github.com/pavanmajhi05-sys"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pavanmajhi05-sys&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -143,13 +143,7 @@
 
  
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=pavanmajhi05-sys&show_icons=true&theme=tokyonight&hide_border=true&title_color=00BFFF&icon_color=87CEEB&text_color=ffffff&bg_color=0D1117" height="180"/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanmajhi05-sys&layout=compact&theme=tokyonight&hide_border=true&title_color=00BFFF&text_color=ffffff&bg_color=0D1117" height="180"/>
-
-  <br/><br/>
+  
 
 
 </div>
@@ -171,4 +165,9 @@
 <div align="center">
   <img height="499" src="https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/08324520-b931-4e89-aa95-16e2bc270475.jpg"  />
 </div>
+<h3> Support Me </h3>
 
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/pavan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+</ul>
