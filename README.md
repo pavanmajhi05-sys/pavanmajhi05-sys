@@ -16,12 +16,7 @@
 
 ### 📬 Reach Me On
 
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pavanmajhi05-sys)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NikhilK97045129)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavanmajhi05@gmail.com)
-
-<br/>
 
 <table>
 <tr>
@@ -36,13 +31,6 @@
 <img src="https://img.icons8.com/fluency/96/000000/twitter.png" width="70"/><br/>
 <sub><b>Follow on X</b></sub>
 </a>
-</td>
-<td align="center">
-<a href="https://www.instagram.com/itz_pavan_rolex">
-<img src="https://img.icons8.com/fluency/96/000000/instagram-new.png" width="70"/><br/>
-<sub><b>Follow on Instagram</b></sub>
-</a>
-</td>
 </tr>
 </table>
 
@@ -62,7 +50,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70" alt="python logo"  />
 </div>
@@ -106,7 +94,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo"  />
 </div> 
 
-<h1> Present Working With ...</h1>
+<h1> 🧑‍💻 Present Working With ......👇 </h1>
 <div align ="center" >
  <a href="https://www.linux.org/" target="_blank">  
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" height="80" alt="Linux"/>  
@@ -116,16 +104,13 @@
   <a href="https://kubernetes.io/" target="_blank">  
     <img src="https://cdn.iconscout.com/icon/free/png-256/kubernetes-3629029-3030006.png" height="80" alt="Kubernetes"/>  
   </a>  
-</div>
+</div>  
+
 
 
                   
 
-## My GitHub Stats
-
-<a href="http://www.github.com/pavanmajhi05-sys"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pavanmajhi05-sys&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# My GitHub Stats 📈
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pavanmajhi05-sys&theme=react-dark)
 
@@ -139,20 +124,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pavanmajhi05-sys&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pavanmajhi05-sys&theme=github_dark&utcOffset=5.5" />
 </p>
-<div align="center">
+<div align="center">   
 
- 
-
-  
-
-
-</div>
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-###
 
 
 <div align="center">
@@ -162,10 +135,8 @@
 
  
 
-<div align="center">
-  <img height="499" src="https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/08324520-b931-4e89-aa95-16e2bc270475.jpg"  />
-</div>
-<h3> Support Me </h3>
+
+<h2> Support Me </h2>
 
 <ul style="list-style-type: none; margin: 0;">
 
