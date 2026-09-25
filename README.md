@@ -31,9 +31,16 @@
 <img src="https://img.icons8.com/fluency/96/000000/twitter.png" width="70"/><br/>
 <sub><b>Follow on X</b></sub>
 </a>
-</tr>
 </table>
-
+<table> 
+  <td align="center">
+  <a href="https://www.linkedin.com/in/pavanmajhi05-sys">
+<img src="https://user36356.na.imgto.link/public/20260925/logolinkedin.avif" width="70" /><br>
+    <sub>Connect On</sub>
+  </a>
+  </td>
+  </tr>
+</table>
 <br/>
 
 💡 **Always open to interesting projects and collaboration opportunities!**
