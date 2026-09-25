@@ -107,16 +107,8 @@
   </a>  
 </div>  
 
-
-
-                  
-
 # My GitHub Stats 📈 
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pavanmajhi05-sys&theme=react-dark)
-
-
-</td>
+![Alt](https://github-readme-streak-stats.herokuapp.com/?user=pavanmajhi05-sys)
 
 
 
