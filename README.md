@@ -97,8 +97,10 @@
 <h1> 🧑‍💻 Present Working With ......👇 </h1>
 <div align ="center" >
  <a href="https://www.linux.org/" target="_blank">  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" height="80" alt="Linux"/>  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" height="80" alt="Linux"/> 
   </a> 
+  <a herf=https://access.redhat.com/articles/7127607>
+    <img src="https://user36356.na.imgto.link/public/20260925/logo.svg" height="80" alt="RedHat"/>
   <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" alt="Fedora" title="Fedora" width="36" height="36" /></a>
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
   <a href="https://kubernetes.io/" target="_blank">  
