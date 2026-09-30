@@ -54,6 +54,24 @@
 </div>
 
 ---
+<div align="left">
+
+### 💻 I Code With... <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40" align="center"/>
+
+</div>
+
+<div align="center">
+
+<table style="border-collapse: separate; border-spacing: 16px;">
+  <tr>
+    <td align="center" width="140" style="background: #ffffff; border: 2px solid #e1e4e8; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/><br/><br/>
+      <sub><b>Python</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <div align="center">
   
