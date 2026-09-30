@@ -55,70 +55,102 @@
 
 ---
 
-
- <h1> I Code With... </h1>
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-<br><br>
-
-
-<br clear="both">
-
-<div align="left">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70" alt="python logo"  />
-</div>
-
-###
-
- <h2>My Tools.. ...</h2>
-
- 
-<br clear="both">
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="70" alt="vscode logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="70" alt="nodejs logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="70" alt="jupyter logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="70" alt="vercel logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="70" alt="mysql logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="70" alt="postgresql logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="70" alt="anaconda logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/blender/F5792A" height="70" alt="blender logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="70" alt="react logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=ps" height="70" alt="adobephotoshop logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="70" alt="git logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=github" height="70" alt="github logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="70" alt="gitlab logo"  />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo"  />
-</div> 
-
-<h1> 🧑‍💻 Present Working With ......👇 </h1>
-<div align ="center" >
- <a href="https://www.linux.org/" target="_blank">  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" height="80" alt="Linux"/> 
-  </a> 
-  <a herf=https://access.redhat.com/articles/7127607>
-    <img src="https://user36356.na.imgto.link/public/20260925/logo.svg" height="80" alt="RedHat"/>
   
-  <a href="https://kubernetes.io/" target="_blank">  
-    <img src="https://cdn.iconscout.com/icon/free/png-256/kubernetes-3629029-3030006.png" height="80" alt="Kubernetes"/>  
-  </a>  
-</div>  
+### 🛠️ Tech Stack & Tools
+
+<table style="border-collapse: separate; border-spacing: 10px;">
+  <tr>
+    <td align="center" width="110" style="background: #ffffff; border: 2px solid #e1e4e8; border-radius: 12px; padding: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/><br/><br/>
+      <sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" width="110" style="background: #ffffff; border: 2px solid #e1e4e8; border-radius: 12px; padding: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);">
+      <img src="https://cdn.simpleicons.org/cursor/000000" width="45"/><br/><br/>
+      <sub><b>Cursor AI</b></sub>
+    </td>
+    <td align="center" width="110" style="background: #ffffff; border: 2px solid #e1e4e8; border-radius: 12px; padding: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/><br/><br/>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="110" style="background: #ffffff; border: 2px solid #e1e4e8; border-radius: 12px; padding: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);">
+      <img src="https://cdn.simpleicons.org/react/61DAFB" width="45"/><br/><br/>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="110" style="background: #ffffff; border: 2px solid #e1e4e8; border-radius: 12px; padding: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/><br/><br/>
+      <sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="110" style="background: #ffffff; border: 2px solid #e1e4e8; border-radius: 12px; padding: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);">
+      <img src="https://skillicons.dev/icons?i=mysql" width="45"/><br/><br/>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="110" style="background: #ffffff; border: 2px solid #e1e4e8; border-radius: 12px; padding: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/><br/><br/>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110" style="background: #ffffff; border: 2px solid #e1e4e8; border-radius: 12px; padding: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);">
+      <img src="https://skillicons.dev/icons?i=vercel" width="45"/><br/><br/>
+      <sub><b>Vercel</b></sub>
+    </td>
+    <td align="center" width="110" style="background: #ffffff; border: 2px solid #e1e4e8; border-radius: 12px; padding: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);">
+      <img src="https://skillicons.dev/icons?i=bash" width="45"/><br/><br/>
+      <sub><b>Linux Bash</b></sub>
+    </td>
+    <td align="center" width="110" style="background: #ffffff; border: 2px solid #e1e4e8; border-radius: 12px; padding: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);">
+      <img src="https://cdn.simpleicons.org/git/F05032" width="45"/><br/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="110" style="background: #ffffff; border: 2px solid #e1e4e8; border-radius: 12px; padding: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);">
+      <img src="https://skillicons.dev/icons?i=github" width="45"/><br/><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="110" style="background: #ffffff; border: 2px solid #e1e4e8; border-radius: 12px; padding: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="45"/><br/><br/>
+      <sub><b>GitLab</b></sub>
+    </td>
+    <td align="center" width="110" style="background: #ffffff; border: 2px solid #e1e4e8; border-radius: 12px; padding: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/><br/><br/>
+      <sub><b>Jupyter</b></sub>
+    </td>
+    <td align="center" width="110" style="background: #ffffff; border: 2px solid #e1e4e8; border-radius: 12px; padding: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);">
+      <img src="https://cdn.simpleicons.org/anaconda/44A833" width="45"/><br/><br/>
+      <sub><b>Anaconda</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🧑‍💻 Presently Working With
+
+<table style="border-collapse: separate; border-spacing: 16px;">
+  <tr>
+    <td align="center" width="160" style="background: #ffffff; border: 2px solid #e1e4e8; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);">
+      <a href="https://www.linux.org/" target="_blank" style="text-decoration: none; color: inherit;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="60"/><br/><br/>
+        <sub><b>Linux</b></sub>
+      </a>
+    </td>
+    <td align="center" width="160" style="background: #ffffff; border: 2px solid #e1e4e8; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);">
+      <a href="https://access.redhat.com/" target="_blank" style="text-decoration: none; color: inherit;">
+        <img src="https://user36356.na.imgto.link/public/20260925/logo.svg" width="60"/><br/><br/>
+        <sub><b>Red Hat</b></sub>
+      </a>
+    </td>
+    <td align="center" width="160" style="background: #ffffff; border: 2px solid #e1e4e8; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);">
+      <a href="https://kubernetes.io/" target="_blank" style="text-decoration: none; color: inherit;">
+        <img src="https://cdn.iconscout.com/icon/free/png-256/kubernetes-3629029-3030006.png" width="60"/><br/><br/>
+        <sub><b>Kubernetes</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+ 
 
 # My GitHub Stats 📈 
 ![Alt](https://github-readme-streak-stats.herokuapp.com/?user=pavanmajhi05-sys)
