@@ -14,34 +14,40 @@
 
 <div align="center">
 
+<div align="center">
+
 ### 📬 Reach Me On
 
-
-
-<table>
-<tr>
-<td align="center">
-<a href="https://github.com/pavanmajhi05-sys">
-<img src="https://img.icons8.com/fluency/96/000000/github.png" width="70"/><br/>
-<sub><b>Follow on GitHub</b></sub>
-</a>
-</td>
-<td align="center">
-<a href="https://x.com/pavanmajhi05">
-<img src="https://img.icons8.com/fluency/96/000000/twitter.png" width="70"/><br/>
-<sub><b>Follow on X</b></sub>
-</a>
-</table>
-<table> 
-  <td align="center">
-  <a href="https://www.linkedin.com/in/pavanmajhi05-sys">
-<img src="https://user36356.na.imgto.link/public/20260925/logolinkedin.avif" width="70" /><br>
-    <sub>Connect On</sub>
-  </a>
-  </td>
+<table style="border-collapse: separate; border-spacing: 16px;">
+  <tr>
+    <td align="center" width="160" style="background: #ffffff; border: 2px solid #e1e4e8; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);">
+      <a href="https://github.com/pavanmajhi05-sys" style="text-decoration: none; color: inherit;">
+        <img src="https://img.icons8.com/fluency/96/000000/github.png" width="60"/><br/><br/>
+        <sub><b>Follow on GitHub</b></sub>
+      </a>
+    </td>
+    <td align="center" width="160" style="background: #ffffff; border: 2px solid #e1e4e8; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);">
+      <a href="https://x.com/pavanmajhi05" style="text-decoration: none; color: inherit;">
+        <img src="https://img.icons8.com/fluency/96/000000/twitter.png" width="60"/><br/><br/>
+        <sub><b>Follow on X</b></sub>
+      </a>
+    </td>
+    <td align="center" width="160" style="background: #ffffff; border: 2px solid #e1e4e8; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);">
+      <a href="https://www.linkedin.com/in/pavanmajhi05-sys" style="text-decoration: none; color: inherit;">
+        <img src="https://user36356.na.imgto.link/public/20260925/logolinkedin.avif" width="60"/><br/><br/>
+        <sub><b>Connect on LinkedIn</b></sub>
+      </a>
+    </td>
+    <td align="center" width="160" style="background: #ffffff; border: 2px solid #e1e4e8; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);">
+      <a href="mailto:pavanmajhi05@gmail.com" style="text-decoration: none; color: inherit;">
+        <img src="https://img.icons8.com/fluency/96/000000/gmail-new.png" width="60"/><br/><br/>
+        <sub><b>Send an Email</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
-<br/>
+
+</div>
 
 💡 **Always open to interesting projects and collaboration opportunities!**
 
