@@ -188,12 +188,12 @@
 </div>
 
 
- 
+ ## 🏆 Certifications
+
+## 🏆 Certifications
+
+<a href="https://www.credly.com/badges/596a51cd-07c4-4c77-9b12-a4a7bf184820">
+  <img src= width="150" alt="Cisco Linux Essentials">
+</a>
 
 
-<h2> Support Me </h2>
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/pavan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-</ul>
