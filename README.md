@@ -188,12 +188,12 @@
 </div>
 
 
- ## 🏆 Certifications
+ 
 
 ## 🏆 Certifications
 
 <a href="https://www.credly.com/badges/596a51cd-07c4-4c77-9b12-a4a7bf184820">
-  <img src= width="150" alt="Cisco Linux Essentials">
+  <img src="linux-unhatched.png" width="150" alt="Cisco Linux Essentials">
 </a>
 
 
